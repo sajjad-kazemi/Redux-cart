@@ -1,2 +1,2 @@
 # Shopping cart with Redux
-## preview => [shoppingCart-with-redux](https://shoppingcart-width-redux.netlify.app)
+## preview : [shoppingCart-with-redux](https://shoppingcart-with-redux.netlify.app)
